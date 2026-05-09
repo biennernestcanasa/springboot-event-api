@@ -52,6 +52,16 @@ DELETE /events/{id}
 - IntelliJ IDEA
 - Postman
 
+## API Screenshots
+
+### GET /events
+
+![GET Events](get-events.png)
+
+### POST /events
+
+![POST Events](post-events.png)
+
 ## Author
 
 Bienn Ernest Canasa
